@@ -1,0 +1,26 @@
+/* gray scale  */
+.gray img {
+    filter: grayscale(100%);
+  }
+
+  /* text color  */
+.orange-text{
+    color: #E76F51;
+}
+/* font awesome  */
+.fa-star{
+    color: #E77C40;
+}
+/* faq anchor  */
+a{
+    text-decoration: none;
+    color: #23A6F0;
+}
+/* head bg color  */
+.header-background{
+    background-color: #264653;
+}
+/* header button color  */
+  .btn-own{
+      background-color:  #E76F51;
+  }
